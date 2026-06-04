@@ -1,1 +1,4 @@
 .venv
+
+# Ignorar arquivos e pastas que contenham 'dataset' no nome
+*dataset*

@@ -5,3 +5,6 @@ jupyter
 pytest
 ruff
 black
+scikit-learn
+seaborn
+pandas
