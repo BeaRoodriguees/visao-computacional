@@ -8,3 +8,4 @@ black
 scikit-learn
 seaborn
 pandas
+tensorflow
